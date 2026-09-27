@@ -1,9 +1,7 @@
-# Vintage Web Blog
+# justinian 的博客
 
-Live blog: https://laz1do.github.io/vintage-web-blog/
+https://laz1do.github.io/vintage-web-blog/
 
-Static HTML generated with Hugo 0.166.0 from the [Vintage Web theme](https://github.com/madebydia/vintage-web-hugo-theme) and its sample content, under the included MIT license.
+中文个人博客，使用 Vintage Web 主题。首页、文章、关于我，以及底部快捷链接、联系方式和统计。Email 和 Twitter 为待填写占位，GitHub 链接指向 Laz1do。
 
-GitHub Pages publishes the static files from the main branch root. Internal page links are adapted to this flat static export. The original editable Hugo project is included in vintage-web-source.zip.
-
-To update the blog, edit the Hugo source and regenerate the static pages before uploading them. The guestbook is a static example and does not save messages on a server.
+修改 HTML 更新内容，修改 demo.css 调整布局，theme.css 为原主题样式。GitHub Pages 自动发布 main 分支根目录。原有示例页面已改为首页跳转。
